@@ -1,0 +1,15 @@
+# Streamlit Web App Framework
+streamlit>=1.30.0
+
+# Data Manipulation & Numerical Operations
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Statistical Analysis & Hypothesis Testing
+scipy>=1.11.0
+statsmodels>=0.14.0
+
+# Visualization Libraries
+matplotlib>=3.8.0
+seaborn>=0.13.0
+plotly>=5.18.0
