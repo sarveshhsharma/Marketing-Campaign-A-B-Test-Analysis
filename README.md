@@ -1,5 +1,8 @@
 # Marketing A/B Testing Analysis
 
+## Demo
+[View Demo](https://drive.google.com/file/d/1cwh1B9_Abw-xlTPgZy5kRKLoz8RwIjzp/view?usp=sharing)
+
 End-to-end A/B test analysis on **588,101 users**, comparing conversion rates between a real **ad** campaign (treatment) and a **PSA** placeholder (control). The project validates experiment integrity before testing, runs a rigorous significance test, and translates the result into business impact — deployed as an interactive Streamlit dashboard.
 
 **Dataset:** [Marketing A/B Testing](https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing) (Kaggle, faviovaz)
